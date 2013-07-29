@@ -1,0 +1,2 @@
+file1 is modified from the Afma6 workstyation..try to see this change on ur laptop.
+silmply by using git pull
