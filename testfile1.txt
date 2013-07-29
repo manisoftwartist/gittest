@@ -1,3 +1,4 @@
+MAnikandan.B
 file1 is modified from the Afma6 workstyation..try to see this change on ur laptop.
 silmply by using git pull
 Now again changing this file on afma6 to see it reflected on laptop.
